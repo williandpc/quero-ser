@@ -5,6 +5,7 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Curso em video" />
+    <orderEntry type="module" module-name="modulariza-o" />
   </component>
   <component name="PyDocumentationSettings">
     <option name="format" value="PLAIN" />
